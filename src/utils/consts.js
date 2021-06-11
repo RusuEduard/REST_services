@@ -1,0 +1,1 @@
+export const PROBE_BASE_URL='http://localhost:8080/atl/probe'
